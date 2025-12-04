@@ -29,3 +29,5 @@ $string['my'] = 'My feedback';
 $string['not_completed_yet'] = 'Not completed yet';
 $string['pluginname'] = 'Feedback viewer';
 $string['privacy:metadata'] = 'The Feedback viewer plugin does not store any personal data.';
+$string['feedbackviewer:view'] = 'View';
+$string['feedbackviewer:viewmyfeedback'] = 'View My Feedback';
